@@ -1,0 +1,21 @@
+body{
+	background-repeat:no-repeat;
+	width:200%;
+	height:100%;
+}
+p{
+color:white;
+font-size:65px;
+font-family:chiller;
+font-weight:bold;
+display:inline;
+}
+#abc{
+color:pink;
+font-size:40px;
+}
+.ab{
+font-size:40px;
+color:pink;
+}
+	
