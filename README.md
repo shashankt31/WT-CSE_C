@@ -11,4 +11,4 @@ Web Technologies
 
 18 Sept 2021 | CSS
 
-20 Sept 2021 | PHP | Introduction, Basic Syntax, Output, Variables, Data Type
+20 Sept 2021 | PHP | Introduction, Basic Syntax, Printing Output, Variables, Data Type
