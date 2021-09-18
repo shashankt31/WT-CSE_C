@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<style>
+body{
+	background-color:hotpink;
+}
+
+.menu{
+	background:yellow;
+	width:40%;
+}
+.dropdown{
+		list-style:none; 
+		display:none;
+		background:pink;
+}
+
+a{
+	text-decoration:none;
+	padding:2px 6px;
+}
+.dropdown>ul>li>a:hover{
+	background:skyblue;
+}
+
+.menu:hover .dropdown{
+	display:block;
+</style>
+</head>
+<body>
+<div class="menu">
+<nav class="nav">
+<div class="menu">
+<ul>
+<li><a href="#">Browse By Category</a></li>
+</ul>
+</div>
+<div class="dropdown">
+<ul >
+<li><a href="#">Childrens Book</a></li>
+<li><a href="#">Computer Science</a></li>
+<li><a href="#">Big Data</a></li>
+<li><a href="#">AI ML</a></li>
+</ul>
+</div>
+</nav>
+</div>
+</body>
+</html>
