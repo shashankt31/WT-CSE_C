@@ -6,21 +6,63 @@ body{
 background:url("larimg.jpg") no-repeat;
 background-size:cover;
 }
-div{
-border:1px solid red;
-width:35%;
-margin:50px auto auto 300px;
+#myform{
+border:1px solid hotpink;
+width:40%;
 text-align:center;
+margin-left:280px; 
+margin-top:60px;
+background-color:skyblue;
+border-radius:20px;
+}
+img{
+height:100px;
+width:100px;
+border-radius:40px;
+margin-top:-35px;
+}
+h2{
+margin-top:-2px;
+color:blue;
+}
+
+input[type="text"],input[type="Password"]{
+border-radius:10px;
+height:30px;
+width:200px;
+margin-top:8px;
+background-color:lightpink;
+color:red;
+font-weight:bold;
+}
+
+input::placeholder{
+text-align:center;
+}
+
+input[type="submit"]{
+height:30px;
+width:100px;
+margin:8px auto;
+border-radius:10px;
+color:blue;
+background-color:lightpink;
+}
+
+input[type="submit"]:hover{
+background-color:skyblue;
+font-weight:bold;
 }
 </style>
 </head>
 
 <body>
 <form>
-<div>
+<div id="myform">
+<img src="image.jpeg"/>
 <h2>Welcome</h2>
-Username<input type="text"/><br/>
-Password<input type="password"/><br/>
+<input type="text" placeholder="Username"/><br/>
+<input type="password" placeholder="Password"/><br/>
 <input type="submit" value="Login"/>
 </div>
 </form>
