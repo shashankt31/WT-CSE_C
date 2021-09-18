@@ -10,3 +10,5 @@ Web Technologies
 17 Sept 2021 | CSS | Box Model, Border Property, Margin Property
 
 18 Sept 2021 | CSS
+
+20 Sept 2021 | PHP | Introduction, Basic Syntax, Output, Variables, Data Type
