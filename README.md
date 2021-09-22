@@ -13,6 +13,6 @@ Web Technologies
 
 20 Sept 2021 | PHP | Introduction, Basic Syntax, Printing Output, Variables, Data Type
 
-23 Sept 2021 | PHP | PHP script to print numbers from 1 to 50 | PHP script to print factorial of a number
+22 Sept 2021 | PHP | PHP script to print numbers from 1 to 50 | PHP script to print factorial of a number
 
-24 Sept 2021 | PHP | 
+23 Sept 2021 | PHP | 
