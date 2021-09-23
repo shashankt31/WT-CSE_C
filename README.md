@@ -15,4 +15,6 @@ Web Technologies
 
 22 Sept 2021 | PHP | PHP script to print numbers from 1 to 50 | PHP script to print factorial of a number
 
-23 Sept 2021 | PHP | 
+23 Sept 2021 | PHP | Arrays- Indexed Array , Associative Array
+
+24 Sept 2021 | PHP | Arrays- Multidimensional Array, Strings, Operator, Control statement, Loops- break & continue, Functions
