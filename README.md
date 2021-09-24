@@ -18,3 +18,5 @@ Web Technologies
 23 Sept 2021 | PHP | Arrays- Indexed Array , Associative Array
 
 24 Sept 2021 | PHP | Arrays- Multidimensional Array, Strings, Operator, Control statement, Loops- break & continue, Functions
+
+25 Sept 2021 | PHP | Reading data from web form controls
