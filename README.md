@@ -20,3 +20,5 @@ Web Technologies
 24 Sept 2021 | PHP | Arrays- Multidimensional Array, Strings, Operator, Control statement, Loops- break & continue, Functions
 
 25 Sept 2021 | PHP | Reading data from web form controls
+
+30 Sept 2021 | PHP | Reading data from web form controls, Handling File Uploads. Connecting to database (MySQL as reference)
