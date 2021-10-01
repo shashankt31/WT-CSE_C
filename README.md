@@ -21,4 +21,6 @@
 
 25 Sept 2021 | PHP | Reading data from web form controls
 
-30 Sept 2021 | PHP | Reading data from web form controls, Handling File Uploads. Connecting to database (MySQL as reference)
+30 Sept 2021 | PHP | Reading data from web form controls, Handling File Uploads.
+
+01 Oct 2021  | PHP | Connecting to database (MySQL as reference), executing simple queries, handling results
