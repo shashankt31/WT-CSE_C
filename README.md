@@ -27,6 +27,8 @@
 
 04 Oct 2021 | PHP | Revision |  Reading data from web form controls
 
+21 Oct 2021 | PHP | Cookies and Session , File Handling in PHP - Opening, Closing and Reading File
+
 -----------------------------------------------------------------------------------------------------------------
 
 ![alt text](Web_Tech_Syllabus.jpg)
