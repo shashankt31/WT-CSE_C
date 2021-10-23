@@ -31,7 +31,7 @@
 
 22 Oct 2021 | PHP | Reading, Writing Text and Binay file, Deleting file... | XML | Introduction to XML
             
-23 Oct 2021 | XML | Defining XML Tags, attributes and its values, DTD- Document Type Definition - Internal DTD & External DTD
+23 Oct 2021 | XML | Defining XML Tags, attributes and values, DTD- Document Type Definition - Internal & External DTD
 
 -----------------------------------------------------------------------------------------------------------------
 
