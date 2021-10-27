@@ -33,7 +33,13 @@
             
 23 Oct 2021 | XML | Defining XML Tags, attributes and values, DTD- Document Type Definition - Internal & External DTD
 
-25 Oct 2021 | XML | Element Declaration in DTD, Attribute Declaration in DTD
+25 Oct 2021 | XML | Element Declaration in DTD, Attribute Declaration in DTD ( Attribute Specifier- default, #IMPLIED, #REQUIRED, #Fixed)
+
+28 Oct 2021 | XML | DTD | Attribute Declaration ( Data type- CDATA, ID, IDREF, IDREFS, NMTOKEN, NMTOKENS, Enumeration)
+
+29 Oct 2021 | XML | XML Schema, XML Schema Data types, XML Schema Structure, XML Schema Element Declaration, Occurance indication , Sequence indicator
+
+30 Oct 2021 | XML | DOM - Document Object Model
 
 -----------------------------------------------------------------------------------------------------------------
 
