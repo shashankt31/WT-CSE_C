@@ -1,0 +1,49 @@
+<html>
+<head>
+</head>
+<body>
+<script>
+document.write("Hello CSE C!!<br/>");
+var age=18;
+function print()
+{
+if (age>=18)
+{
+document.write("Eligible for VACCINATION");
+}
+else if(age>=0)
+{
+document.write("Not eligible for vaccination");
+}
+else
+{
+document.write("Enter valid age");
+}
+}
+
+function fact(num)
+{ 
+var res=1;
+for(var i=1;i<=num;i++)
+{
+res=res*i;
+}
+document.write("<br/>Factorial of "+num+" is "+res);
+}
+
+//creating an array 
+var a=new Array(); //creates an empty array
+var b=[10,20,30,40,'csec'];
+document.write("</br>"+b);
+document.write("<br/>Length: "+b.length)
+b.push(50);
+document.write("<br/>"+b);
+b.unshift(02);
+document.write("<br/>"+b);
+
+
+
+fact(4);
+</script>
+</body>
+</html>
